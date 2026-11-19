@@ -1,0 +1,17 @@
+id,text,expected_labels
+R01,The service shall return search results within 2 seconds.,
+R02,The system shall respond quickly.,ambiguous
+R03,The system shall export TBD.,incomplete
+R04,The portal shall provide a world-class experience.,meaningless
+R05,The service shall return search results within 2 seconds.,redundant
+R06,The system shall use reasonable memory.,ambiguous
+R07,The system shall provide state-of-the-art fast search.,meaningless|ambiguous
+R08,The system shall,incomplete
+R09,The system shall require passwords of at least 16 characters.,
+R10,THE SERVICE SHALL RETURN SEARCH RESULTS WITHIN 2 SECONDS!,redundant
+R11,Must export CSV.,incomplete
+R12,The system shall send a verification code within 30 seconds.,
+R13,The system shall maximize synergy.,meaningless
+R14,The system shall lock an account after 5 failed attempts.,
+R15,The application shall use an efficient export process.,ambiguous
+R16,The system shall finish the upload within,incomplete
